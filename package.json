@@ -33,7 +33,7 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "preprocess": "~2.1.0"
+    "preprocess": "mikey0000/preprocess"
   },
   "devDependencies": {
     "grunt": "~0.4.0",
